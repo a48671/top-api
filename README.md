@@ -1,7 +1,7 @@
 ## Description
 API for apps about top list for courses, services, book and products
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Use [Nest](https://github.com/nestjs/nest) framework.
 
 ## Installation
 
